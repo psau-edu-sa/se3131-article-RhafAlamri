@@ -9,6 +9,6 @@ Preparation for the labor market is done through skills, which are (a set of kno
  
  
  
- ##The link I summarized
+ ## The link I summarized
  
  https://youtu.be/mDIoXmblQKU
