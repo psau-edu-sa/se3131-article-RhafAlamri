@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9328749&assignment_repo_type=AssignmentRepo)
 ## How to Prepare for IT Job Market?
 
-This is a summary of the link below:
+This is a summary of the link..
 
 Preparation for the labor market is done through skills, which are (a set of knowledge + continuous practice) and the accumulation of skills becomes experience. Among the negatives of specializing in the field of information technology is the rapid change and overlapping of fields. As for the positives, the jobs in this field are among the best jobs, and also the financial aspect is very good, as well as the many opportunities and the possibility of self-learning without the need for a teacher and the most prominent specializations in this field are / computer science - computer engineering - Software engineering - information systems - information technology
 
